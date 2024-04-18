@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/sujan-p-s-4a0415225/)
-[![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:rahulrudnure2003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rahulrudnure2003@gmail.com-blue)](mailto:rahulrudnure2003@gmail.com)
 
 ## Skills
 
