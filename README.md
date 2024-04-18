@@ -4,19 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SujanPS-blue)](https://www.linkedin.com/in/sujan-p-s-4a0415225/)
-[![Twitter](https://img.shields.io/badge/Twitter-Sujan_____-blue)](https://twitter.com/Sujan_____)
-[![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:sujanmayra6362@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sujanmayra6362%40gmail.com-blue)](mailto:rahulrudnure2003@gmail.com)
 
 ## Skills
 
 - Technical :
   
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23777BB4.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![BootStrap](https://img.shields.io/badge/python-3670A0?style=for-the-badge&=python&logoColor=ffdd54)
 
 - Software :
 
