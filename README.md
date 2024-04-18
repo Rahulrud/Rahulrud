@@ -1,7 +1,6 @@
 <h1 align="center">Rahul </h1>
 <h3 align="center">Tech Enthusiast || Front- end Web Developer || Web Designer Frames works || NCC Cadet || Immediate Joiner </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-1a3489212/)
 [![Email](https://img.shields.io/badge/Email-rahulrudnure2003@gmail.com-blue)](mailto:rahulrudnure2003@gmail.com)
