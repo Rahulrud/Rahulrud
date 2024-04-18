@@ -34,7 +34,7 @@
 ## Education
 
 Bachelor of Engineering: **Alva's Institute of Engineering and Technology**  
-_November 2020 - May 2024 (Expected)_
+_December 2020 - May 2024 (Expected)_
 ## Work Experience
 ### Web Developer
 Mar 24 - Apr 24
