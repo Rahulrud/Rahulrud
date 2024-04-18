@@ -14,8 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![BootStrap](https://img.shields.io/badge/bootstrap-3670A0?style=for-the-badge&=BootStrap&logoColor=ffdd54)
-![MySql](https://img.shields.io/badge/tailwind-3670A0?style=for-the-badge&=Tailwind&Color=ffdd54)
-![Responsive Designer ](https://img.shields.io/badge/tailwind-3670A0?style=for-the-badge&=Tailwind&Color=ffdd54)
+![MySql](https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&=mysql&Color=ffdd54)
+![Responsive Designer ](https://img.shields.io/badge/responsive designer-3670A0?style=for-the-badge&=responsive designer&Color=ffdd54)
 
 
 
