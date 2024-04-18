@@ -105,19 +105,22 @@ Oct 22 - Dec 22
 
 ## Achievements
 
-- Currently serving as the **secretary** of My department, holding a leadership role with responsibilities related to departmental Events.
-- Represented at the **national level** in Ball Badminton on **two occasions**, demonstrating excellence in the sport.
-- Successfully solved over 200 problems on CodeChef,Leetcode , GeekforGeeks  using the C and Java programming language.
-- Achieved a CodeChef rating of 1539, earning a TwoStar badge
+- Senior most cadet in Air wing in mine College
+- Selected for the National level Camp in Air wing 
+- Represented at the **under 16 zone 3 level** in Cricket on, demonstrating excellence in the sport.
+- Successfully solved over 150 problems on CodeChef,  using the Python.
+- Achieved a 2 prize in Batmention league.
+- 
 
 ## Content Management 
 - Resume Building
-- Social media management
 - Photo, Video editing
-- Content creation
+- Project Management
+- Team leader
+
 
 ## certificates
-#### View Certificates(https://www.linkedin.com/in/sujan-p-s-4a0415225/details/certifications/)
+#### View Certificates(https://www.linkedin.com/in/rahul-1a3489212/recent-activity/all/)
 
 ## GitHub Works
 
