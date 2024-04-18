@@ -38,13 +38,14 @@ _November 2020 - May 2024 (Expected)_
 ## Work Experience
 ### Web Developer
 Mar 24 - Apr 24
-- Completed 1-month Web Development internship at TECH-A-INTERN.
-- Honed skills, created three impressive projects during web development internship.
+- Completed 1-month Web Development internship at CampusCoders.
+- Honed skills, created impressive projects during web development internship.
 - Significantly expanded web development knowledge through hands-on experience.
 - Equipped with valuable expertise for future endeavors in the field.
-### Data Analyst
+  
+### Data Analytics
 Dec 23 - Mar 24
-- Completed 3-month Winter internship at Nexus Info in Data Analysis.
+- Completed 1-month online internship at MedTourEasy in Data Analytics.
 - Engaged in diverse tasks, mastering basics of data analytics.
 - Demonstrated practical application of learned skills in one project.
 - Gained valuable hands-on experience, contributing to professional growth.
