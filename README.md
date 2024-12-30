@@ -1,5 +1,5 @@
 <h1 align="center">Rahul </h1>
-<h3 align="center">Tech Enthusiast || Front- end Web Developer || Web Designer Frames works || NCC Cadet || Immediate Joiner </h3>
+<h3 align="center">Tech Enthusiast || Front- end Web Developer || Web Designer Frames works || JAVA Developer || NCC Cadet || Immediate Joiner </h3>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-1a3489212/)
