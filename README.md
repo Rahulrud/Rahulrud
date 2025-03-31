@@ -3,7 +3,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue)](https://www.linkedin.com/in/rahul-1a3489212/)
-[![Email](https://img.shields.io/badge/Email-rahulrudnure2003@gmail.com-blue)](mailto:rahulrudnure2003@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rahulrudnure12345@gmail.com-blue)](mailto:rahulrudnure12345@gmail.com)
 
 ## Skills
 
